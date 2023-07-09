@@ -23,6 +23,9 @@ The following libraries are used in the Elevator System:
 
 Django: A high-level Python web framework that enables rapid development of secure and maintainable websites and APIs. / Django REST Framework: A powerful and flexible toolkit for building APIs that includes serializers, viewsets, and authentication support. /
 
+API 
+following are the endpoints
+
 1. for getting info of elevator system by elevatorSystem name
 'elevator-systems/<str:system_name>/'
 
